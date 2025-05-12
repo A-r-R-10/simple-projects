@@ -4,7 +4,7 @@ This file provides a command-line interface to interact with the TaskManager cla
 It presents a menu for users to add, delete, update, display tasks, or exit the program.
 """
 
-from task_manager import TaskManager
+from task_manager.task_manager import TaskManager
 
 
 def show_menu():

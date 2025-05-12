@@ -65,7 +65,7 @@ Manages a collection of tasks, including adding, deleting, updating, displaying,
 ## Usage Example
 
 ```python
-from task_manager import TaskManager
+from task_manager.task_manager import TaskManager
 
 # Create a TaskManager instance
 manager = TaskManager()
